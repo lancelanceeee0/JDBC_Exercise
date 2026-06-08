@@ -36,6 +36,7 @@ A JavaFX + JDBC + PostgreSQL desktop application that performs basic CRUD (Creat
 - PostgreSQL (provided by professor)
 
 ## Setup Instructions
+- Same notes its better to download the zip and open it in Intellij
 
 ### 1. Clone or download the project
 
