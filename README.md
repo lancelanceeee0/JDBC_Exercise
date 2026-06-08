@@ -77,7 +77,7 @@ Alternatively, import the project into IntelliJ IDEA and run the `MainApp` class
 ## Troubleshooting
 
 - **Cannot connect to PostgreSQL** – Make sure the PostgreSQL service is running and the connection parameters in `DBConnection.java` are correct 
-- **JavaFX runtime components missing** – Always use `mvn clean javafx:run` or the provided IntelliJ run configuration (with VM options).
+- **JavaFX runtime components missing** – if not working use `mvn clean javafx:run` or the provided IntelliJ run configuration (with VM options).
 - **Table not showing data** – Verify that the `students` table already contains data (add via the **Add** button).
 
 ## Author
