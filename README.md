@@ -18,16 +18,16 @@ A JavaFX + JDBC + PostgreSQL desktop application that performs basic CRUD (Creat
 *Proof of working CRUD operations*
 
 ### Add Student
-![Add Student](screenshots/add-student.png)
+![Add Student](Screenshots/Adding.png)
 
 ### Delete Student (Confirmation Dialog)
-![Delete Student](screenshots/delete-confirmation.png)
+![Delete Student](Screenshots/Delete.png)
 
-### After Deletion – Record Removed
-![After Delete](screenshots/after-delete.png)
+### Before Update – Record (e.g., changing year level)
+![After Delete](screenshots/BeforeUpdating.png)
 
 ### Update Student (e.g., changing year level)
-![Update Student](screenshots/update-student.png)
+![Update Student](screenshots/Update.png)
 
 ## Prerequisites
 
