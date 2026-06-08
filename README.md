@@ -27,7 +27,7 @@ A JavaFX + JDBC + PostgreSQL desktop application that performs basic CRUD (Creat
 ![Before Update](Screenshots/BeforeUpdating.png)
 
 ### Update Student (e.g., changing year level)
-![Update Student](Screenshots/Update.png)
+![Updated Student](Screenshots/Update.png)
 
 ## Prerequisites
 
